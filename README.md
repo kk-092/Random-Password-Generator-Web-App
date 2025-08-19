@@ -3,5 +3,3 @@ Random Password Generator is a lightweight web app that helps users create stron
 <br>
 
 https://kk-092.github.io/Random-Password-Generator-Web-App/
-<br>
-# password-generator #random password generator #password generator #password #random password creator #passwrod creator 
